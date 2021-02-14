@@ -1,0 +1,11 @@
+
+Q	java:S125D"<This block of commented-out lines of code should be removed.(‡“Ø—
+c
+java:S4488'"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Áâşşÿÿÿÿ
+Q	java:S1259"<This block of commented-out lines of code should be removed.(îØÿÇ
+`
+java:S4488@"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Æ­‚è
+[
+java:S4684A"@Replace this persistent entity with a simple POJO or DTO object.(êÑ•îúÿÿÿÿ
+^
+java:S44880"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ËÆ

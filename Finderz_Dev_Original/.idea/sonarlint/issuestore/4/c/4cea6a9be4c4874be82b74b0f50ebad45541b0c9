@@ -1,0 +1,29 @@
+
+R
+java:S2629"7Use the built-in formatting to construct this argument.(Å¯Òòıÿÿÿÿ
+R
+java:S2629#"7Use the built-in formatting to construct this argument.(ğ‘¯‡ûÿÿÿÿ
+R
+java:S2629,"7Use the built-in formatting to construct this argument.(›˜Øøÿÿÿÿ
+M
+java:S26295"7Use the built-in formatting to construct this argument.(‘ãÕœ
+R
+java:S2629@"7Use the built-in formatting to construct this argument.(Ïˆ‚ºıÿÿÿÿ
+\
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Å¯Òòıÿÿÿÿ
+\
+java:S3457#"AFormat specifiers should be used instead of string concatenation.(ğ‘¯‡ûÿÿÿÿ
+\
+java:S3457,"AFormat specifiers should be used instead of string concatenation.(›˜Øøÿÿÿÿ
+<
+java:S21294"!Remove this "Integer" constructor(‹êéÉøÿÿÿÿ
+J
+java:S18744"/Remove this use of "Integer"; it is deprecated.(‹êéÉøÿÿÿÿ
+W
+java:S34575"AFormat specifiers should be used instead of string concatenation.(‘ãÕœ
+<
+java:S2129<"!Remove this "Integer" constructor(‹êéÉøÿÿÿÿ
+J
+java:S1874<"/Remove this use of "Integer"; it is deprecated.(‹êéÉøÿÿÿÿ
+\
+java:S3457@"AFormat specifiers should be used instead of string concatenation.(Ïˆ‚ºıÿÿÿÿ
